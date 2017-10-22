@@ -1,0 +1,20 @@
+.destination-image img {
+  display: block;
+}
+.destination-card {
+  margin-bottom: 16px;
+}
+.destination-description {
+  padding: 10px 16px;
+}
+.destination-card p {
+  color: #999;
+  clear: both;
+}
+.destination-title {
+  float: left;
+}
+.destination-people {
+  float: right;
+  line-height: 21px;
+}

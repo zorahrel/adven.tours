@@ -1,0 +1,10 @@
+@keyframes pound {
+  to {
+    transform: scale(1.1);
+  }
+}
+
+.love {
+  color: #EC5D57;
+  animation: pound 0.40s infinite alternate;
+}
